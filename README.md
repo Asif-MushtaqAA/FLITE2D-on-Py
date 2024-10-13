@@ -9,3 +9,8 @@ The original MATLAB based framework was developed at Swansea University and can 
 Github Repository Link: https://github.com/DrBenEvans/FLITE2D_MATLAB  
 
 Main Script is titled "FLITE2DPY.py".  
+
+Example Implementation in console  
+
+from FLITE2DPY import FLITE2DPY  
+FLITE2DPY(10001,0.5,4)  
